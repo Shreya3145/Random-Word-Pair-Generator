@@ -29,8 +29,10 @@ To add it, run:
 ```bash
 flutter pub add english_words
 ```
+## Preview
+![Preview](https://github.com/user-attachments/assets/0d9bc78b-8f9d-4450-92e5-1f5749668eac)
 
-[Watch the demo video](/assets/Preview.mp4)
+
 
 ## Problems I faced and wasted a lot of time
 1. Gradle version and java version did not match
