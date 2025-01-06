@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.build/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+pubspec.lock
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/intermediates/
+android/app/build/
+*.iml
+
+# iOS related
+ios/Flutter/.generated/
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
