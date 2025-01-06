@@ -30,7 +30,7 @@ To add it, run:
 flutter pub add english_words
 ```
 
-## Problems I faced and wasted a lot of time: 
+## Problems I faced and wasted a lot of time
 1. Gradle version and java version did not match
 2. Xcode is needed for iphone simulator
 3. Android Studio is needed for android simulator
@@ -43,14 +43,14 @@ flutter pub add english_words
 10. I cried
 11. Learn some basic flutter commands
 
-## Know these flutter commands
+## KNOW these flutter commands 
 
 0. flutter -h //gives a list of flutter commands
 
 1. flutter doctor //tells the requirements
 
 2. flutter —versions //flutter version 
-dart --versions //dart version
+   dart --versions //dart version
 
 First go to command palette and type "Flutter : Emulators" or "Flutter : Devices" based on your need,
 3. flutter emulators 
@@ -59,8 +59,8 @@ First go to command palette and type "Flutter : Emulators" or "Flutter : Devices
 5. flutter clean //cleans and deletes like literally and gives so much red lines, just run "flutter pub get" to clear them up!
 
 6. flutter pub outdated //checks the pubspec whether the dependencies are outdated or not
-flutter pub upgrade //upgrades the pubspec whether the dependencies
-flutter pub get //gets the versions of dependencies
+   flutter pub upgrade //upgrades the pubspec whether the dependencies
+   flutter pub get //gets the versions of dependencies
 
 7. flutter packages get //a list of packages are given
 
