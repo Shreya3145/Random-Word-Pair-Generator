@@ -47,7 +47,7 @@ flutter pub add english_words
 ```
 nano ~/.zshrc   # if you're using zsh (default on macOS)
 ```
-# or
+### or
 ```
 nano ~/.bash_profile  # if you're using bash
 ```
