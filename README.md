@@ -70,8 +70,8 @@ First go to command palette and type "Flutter : Emulators" or "Flutter : Devices
 
 6. flutter pub outdated //checks the pubspec whether the dependencies are outdated or not <br>
    flutter pub upgrade //upgrades the pubspec whether the dependencies <br>
-   flutter pub get //gets the versions of dependencies
+   flutter pub get //gets the dependencies
 
-7. flutter packages get //a list of packages are given
+7. flutter packages get
 
 8. flutter create //to create a project 
