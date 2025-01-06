@@ -30,8 +30,7 @@ To add it, run:
 flutter pub add english_words
 ```
 ## Preview
-![Preview](https://github.com/user-attachments/assets/0d9bc78b-8f9d-4450-92e5-1f5749668eac)
-
+![Preview-2](https://github.com/user-attachments/assets/ea69796f-b09b-445b-838b-d1548bb5a532)
 
 
 ## Problems I faced and wasted a lot of time
