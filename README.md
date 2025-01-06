@@ -37,7 +37,7 @@ flutter pub add english_words
 4. To connect your own phone as a simulator, you need to enable developer options, USB debugging and connect to the laptop to run the app
 5. Without class and object knowledge we cannot do this code
 6. I accidently deleted pubspec.yaml and wasted an entire day 
-7. I had to downgrade java version to match my gradle, but later I upgraded gradle to match the exisiting java version
+7. I had to downgrade java version to match my gradle, but later I upgraded gradle to match the existing java version
 8. I didn't even know gradle was needed
 9. I got atleast 20 build errors just during the creation of a flutter project
 10. I cried
@@ -47,7 +47,7 @@ flutter pub add english_words
 ```
 nano ~/.zshrc   # if you're using zsh (default on macOS)
 ```
-### or
+or
 ```
 nano ~/.bash_profile  # if you're using bash
 ```
