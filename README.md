@@ -36,14 +36,24 @@ flutter pub add english_words
 3. Android Studio is needed for android simulator
 4. To connect your own phone as a simulator, you need to enable developer options, USB debugging and connect to the laptop to run the app
 5. Without class and object knowledge we cannot do this code
-6. I deleted pubspec.yaml and wasted an entire day 
+6. I accidently deleted pubspec.yaml and wasted an entire day 
 7. I had to downgrade java version to match my gradle, but later I upgraded gradle to match the exisiting java version
 8. I didn't even know gradle was needed
 9. I got atleast 20 build errors just during the creation of a flutter project
 10. I cried
 11. Learn some basic flutter commands
+12. Set proper architecture if using Xcode (if you don't want both (arm64 and x86_64) for the same platform)
+13. If needed add path
+```
+nano ~/.zshrc   # if you're using zsh (default on macOS)
+```
+# or
+```
+nano ~/.bash_profile  # if you're using bash
+```
 
-## KNOW these flutter commands 
+
+## Know these flutter commands 
 
 0. flutter -h //gives a list of flutter commands
 
@@ -52,7 +62,7 @@ flutter pub add english_words
 2. flutter —versions //flutter version 
    dart --versions //dart version
 
-First go to command palette and type "Flutter : Emulators" or "Flutter : Devices" based on your need,
+First go to command palette and type "Flutter : Emulators" or "Flutter : Devices" based on your need,<br>
 3. flutter emulators 
 4. flutter run //runs the emulator
 
