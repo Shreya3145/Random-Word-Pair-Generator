@@ -30,6 +30,8 @@ To add it, run:
 flutter pub add english_words
 ```
 
+[Watch the demo video](/assets/Preview.mp4)
+
 ## Problems I faced and wasted a lot of time
 1. Gradle version and java version did not match
 2. Xcode is needed for iphone simulator
