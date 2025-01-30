@@ -32,21 +32,6 @@ flutter pub add english_words
 ## Preview
 ![Preview-2](https://github.com/user-attachments/assets/ea69796f-b09b-445b-838b-d1548bb5a532)
 
-
-## Problems I faced and wasted a lot of time
-1. Gradle version and java version did not match
-2. Xcode is needed for iphone simulator
-3. Android Studio is needed for android simulator
-4. To connect your own phone as a simulator, you need to enable developer options, USB debugging and connect to the laptop to run the app
-5. Without class and object knowledge we cannot do this code
-6. I accidently deleted pubspec.yaml and wasted an entire day 
-7. I had to downgrade java version to match my gradle, but later I upgraded gradle to match the existing java version
-8. I didn't even know gradle was needed
-9. I got atleast 20 build errors just during the creation of a flutter project
-10. I cried
-11. Learn some basic flutter commands
-12. Set proper architecture if using Xcode (if you don't want both (arm64 and x86_64) for the same platform)
-13. If needed add path
 ```
 nano ~/.zshrc   # if you're using zsh (default on macOS)
 ```
@@ -56,7 +41,7 @@ nano ~/.bash_profile  # if you're using bash
 ```
 
 
-## Know these flutter commands 
+## flutter commands 
 
 0. flutter -h //gives a list of flutter commands
 
