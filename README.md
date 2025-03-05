@@ -47,7 +47,7 @@ nano ~/.bash_profile  # if you're using bash
 
 1. flutter doctor # tells the requirements
 
-2. flutter —versions # flutter version 
+2. flutter —versions # flutter version <br>
    dart --versions # dart version
 
 First go to command palette and type "Flutter : Emulators" or "Flutter : Devices" based on your need,<br>
