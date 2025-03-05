@@ -41,25 +41,25 @@ nano ~/.bash_profile  # if you're using bash
 ```
 
 
-## flutter commands 
+## Basic flutter commands 
 
-0. flutter -h //gives a list of flutter commands
+0. flutter -h # gives a list of flutter commands
 
-1. flutter doctor //tells the requirements
+1. flutter doctor # tells the requirements
 
-2. flutter —versions //flutter version 
-   dart --versions //dart version
+2. flutter —versions # flutter version 
+   dart --versions # dart version
 
 First go to command palette and type "Flutter : Emulators" or "Flutter : Devices" based on your need,<br>
 3. flutter emulators <br>
-4. flutter run //runs the emulator
+4. flutter run # runs the emulator
 
-5. flutter clean //cleans and deletes like literally and gives so much red lines, just run "flutter pub get" to clear them up!
+5. flutter clean # cleans and deletes like literally and gives so much red lines, just run "flutter pub get" to clear them up!
 
-6. flutter pub outdated //checks the pubspec whether the dependencies are outdated or not <br>
-   flutter pub upgrade //upgrades the pubspec whether the dependencies <br>
-   flutter pub get //gets the dependencies
+6. flutter pub outdated # checks the pubspec whether the dependencies are outdated or not <br>
+   flutter pub upgrade # upgrades the pubspec whether the dependencies <br>
+   flutter pub get # gets the dependencies
 
 7. flutter packages get
 
-8. flutter create //to create a project 
+8. flutter create # to create a project 
